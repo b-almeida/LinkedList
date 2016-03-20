@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415485676 source:c:\users\bruno\google drive\grade 11\computer science\other\assignment linked-lists\part 4\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1415482840 c:\users\bruno\google drive\grade 11\computer science\other\assignment linked-lists\part 4\linkedlist.h
+
+1415485208 source:c:\users\bruno\google drive\grade 11\computer science\other\assignment linked-lists\part 4\linkedlist.cpp
+	<iostream>
+	"linkedlist.h"
+
